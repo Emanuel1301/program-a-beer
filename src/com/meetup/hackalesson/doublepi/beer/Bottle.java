@@ -33,7 +33,7 @@ public class Bottle {
 	private boolean isOpen;
 
 	/**
-	 * Creates a new fulfilled and closed bottle with a total volume of 500
+	 * Create a new filled and closed bottle with a total volume of 500
 	 * milliliters.
 	 */
 	public Bottle() {
@@ -41,7 +41,7 @@ public class Bottle {
 	}
 
 	/**
-	 * Creates a new fulfilled and closed with the given total volume.
+	 * Create a new filled and closed with the given total volume.
 	 * 
 	 * @param totalVolume
 	 *            total volume in milliliters

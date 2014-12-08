@@ -9,6 +9,6 @@ public class Barbesuch {
 		Person you = new Person("You!", Gender.FEMALE, 60);
 		you.consume(wein);
 		
-		System.out.println(you.getPromille());
+		System.out.println("This woman has now " + you.getPromille() + " Promille");
 	}
 }
